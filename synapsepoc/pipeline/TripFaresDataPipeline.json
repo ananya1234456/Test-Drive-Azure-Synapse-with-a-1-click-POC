@@ -473,7 +473,7 @@
 			},
 			"SQLLoginUsername": {
 				"type": "string",
-				"defaultValue": "masteruser"
+				"defaultValue": "mysa"
 			},
 			"KeyVaultName": {
 				"type": "string",
